@@ -1,0 +1,4 @@
+Nombre,nroCuenta,PIN,balance,cuentaBloqueada(1 = si / 0 = no),
+Mateo Abraham,004390532500,12345,51000,0,
+Bautista Menghini,001234567800,12345,40000,0,
+Mateo Menviele,008765432100,12345,800.5,0,
